@@ -223,8 +223,8 @@ a {
 }
 .icons-social-networks:hover {
   fill: black;
+  background-color: black;
 }
-
 .team-title {
   font-size: 36px;
   line-height: 1.11;
