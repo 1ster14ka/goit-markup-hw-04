@@ -336,6 +336,9 @@ a {
   margin: 0 120px 0 156px;
   padding: 0;
 }
+.footer-container-logo {
+  margin-right: 120px;
+}
 
 .logo-studio-footer {
   color: #f4f4fd;
