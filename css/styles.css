@@ -191,11 +191,16 @@ a {
   margin-bottom: 8px;
   height: 112px;
 }
-.middle-icons {
+.section-middle-icons svg {
   width: 64px;
   height: 64px;
   margin: 24px 0;
 }
+/* .middle-icons {
+  width: 64px;
+  height: 64px;
+  margin: 24px 0;
+} */
 .subtitle {
   font-weight: 500;
   font-size: 20px;
