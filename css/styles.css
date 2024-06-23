@@ -222,8 +222,8 @@ a {
   height: 40px;
 }
 .icons-social-networks:hover {
-  fill: black;
-  background-color: black;
+  fill: red;
+  background-color: red;
 }
 .team-title {
   font-size: 36px;
