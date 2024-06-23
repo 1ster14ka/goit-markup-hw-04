@@ -379,7 +379,8 @@ a {
   justify-content: center;
   align-items: center;
 }
-.team-list-icons-link:hover,
-.team-list-icons-link:focus {
+
+.team-list-icons-link.footer-link:hover,
+.team-list-icons-link.footer-link:focus {
   background-color: #31d0aa;
 }
