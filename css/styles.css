@@ -192,8 +192,8 @@ a {
   height: 112px;
 }
 .section-middle-icons svg {
-  width: 64px;
-  height: 64px;
+  /* width: 64px;
+  height: 64px; */
   margin: 24px 0;
 }
 /* .middle-icons {
