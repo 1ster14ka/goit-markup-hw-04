@@ -332,12 +332,13 @@ a {
 .container.containter-footer {
   display: flex;
   align-items: baseline;
-  max-width: 264px;
+  /* max-width: 264px; */
   margin: 0 120px 0 156px;
   padding: 0;
 }
 .footer-container-logo {
   margin-right: 120px;
+  max-width: 264px;
 }
 
 .logo-studio-footer {
