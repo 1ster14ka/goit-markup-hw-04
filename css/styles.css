@@ -236,8 +236,11 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 24px;
   margin-top: 8px;
+  gap: 16px;
+}
+.team-list-icons.section-main {
+  gap: 24px;
 }
 
 .icons-social-networks {
@@ -360,12 +363,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
-.team-list-icons {
-  display: flex;
-  gap: 16px;
-}
+
 .team-list-icons-card {
   width: 40px;
   height: 40px;
